@@ -1,6 +1,6 @@
 About:
 
-Generador de números pseudo-aleatorios conocido como linear-feedback shift register (LFSR), la versión fibonacci.
+Generador de números pseudo-aleatorios conocido como linear-feedback shift register (LFSR), la versión Fibonacci.
 Consta de un programa que, dadad una semilla para su inicio, ejecuta una cantidad de compuertas XOR deseadas para
 poder generar números aleatorios.
 
@@ -11,6 +11,8 @@ Funcionamiento:
 Se debe contar con el simulador de procesador RISC-V Ripes, lo puede encontrar en el siguiente repositorio de github:
 
 https://github.com/mortbopet/Ripes/releases
+
+2. Ejecución.
 
 Seguidamente, descomprima el repositorio, encontrará un ejecutable con el nombre del programa, ejecútelo y seguidamente
 haga click en la pestaña File-> Load Program -> marque la opción source file y clickee Open, luego busque 
